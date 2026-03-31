@@ -1,6 +1,6 @@
 module github.com/golangci/golangci-lint
 
-go 1.23.0
+go 1.25.0
 
 require (
 	4d63.com/gocheckcompilerdirectives v1.3.0
@@ -35,7 +35,7 @@ require (
 	github.com/curioswitch/go-reassign v0.3.0
 	github.com/daixiang0/gci v0.13.5
 	github.com/denis-tingaikin/go-header v0.5.0
-	github.com/fatih/color v1.18.0
+	github.com/fatih/color v1.19.0
 	github.com/firefart/nonamedreturns v1.0.5
 	github.com/fzipp/gocyclo v0.6.0
 	github.com/ghostiam/protogetter v0.3.9
@@ -126,7 +126,7 @@ require (
 	go-simpler.org/sloglint v0.9.0
 	go.uber.org/automaxprocs v1.6.0
 	golang.org/x/mod v0.24.0
-	golang.org/x/sys v0.31.0
+	golang.org/x/sys v0.42.0
 	golang.org/x/tools v0.31.0
 	gopkg.in/yaml.v3 v3.0.1
 	honnef.co/go/tools v0.6.1
